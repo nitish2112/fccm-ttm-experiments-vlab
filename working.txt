@@ -1,0 +1,23 @@
+
+(1) 8x10 (old params):
+
+  # operations = 671088640
+  Throughput: 230.40389 GFLOPS
+
+(2) 8x9:
+
+  # operations = 9663676416
+  Throughput: 228.33077 GFLOPS
+
+  ALUTs: 342117
+  Registers: 536,822
+  Logic utilization: 267,113 / 427,200 ( 63 % )
+  I/O pins: 305 / 826 ( 37 % )
+  DSP blocks: 1,158 / 1,518 ( 76 % )
+  Memory bits: 32,880,344 / 55,562,240 ( 59 % )
+  RAM blocks: 2,394 / 2,713 ( 88 % )
+  Actual clock freq: 200
+  Kernel fmax: 200.12
+  1x clock fmax: 200.12
+  2x clock fmax: 10000
+  Highest non-global fanout: 213532
