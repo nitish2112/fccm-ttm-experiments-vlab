@@ -23,7 +23,7 @@ else:
   I_BITS, II_BITS, III_BITS = 3,0,4
   J_BITS, JJJ_BITS = 2,4
   K_BITS, KKK_BITS = 2,4
-  L_BITS, LL_BITS, LLL_BITS = 2,1,4
+  L_BITS, LL_BITS, LLL_BITS = 4,3,4
   
   JJ = 8
   KK = 9

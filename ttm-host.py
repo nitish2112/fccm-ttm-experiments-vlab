@@ -12,8 +12,8 @@ if emul:
   III, JJJ, KKK, LLL = 2,2,2,2
 
 else:
-  I,J,K,L = 8,4,4,4
-  II, JJ, KK, LL = 1,8,9,2
+  I,J,K,L = 8,4,4,16
+  II, JJ, KK, LL = 1,8,9,8
   III, JJJ, KKK, LLL = 16,16,16,16
 
 AOCX_FILE = "ttm-drain_{}x{}.aocx".format(JJ,KK)
