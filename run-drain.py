@@ -20,13 +20,13 @@ if (emul):
   KK = 2
 
 else:
-  I_BITS, II_BITS, III_BITS = 3,0,4
-  J_BITS, JJJ_BITS = 2,4
+  I_BITS, II_BITS, III_BITS = 3,0,3
+  J_BITS, JJJ_BITS = 2,3
   K_BITS, KKK_BITS = 2,4
-  L_BITS, LL_BITS, LLL_BITS = 4,3,4
+  L_BITS, LL_BITS, LLL_BITS = 4,2,4
   
   JJ = 8
-  KK = 9
+  KK = 10
 
 I,J,K,L = 2**I_BITS, 2**J_BITS, 2**K_BITS, 2**L_BITS
 II, LL = 2**II_BITS, 2**LL_BITS
