@@ -26,7 +26,7 @@ else:
   L_BITS, LL_BITS, LLL_BITS = 4,2,4
   
   JJ = 8
-  KK = 10
+  KK = 11
 
 I,J,K,L = 2**I_BITS, 2**J_BITS, 2**K_BITS, 2**L_BITS
 II, LL = 2**II_BITS, 2**LL_BITS

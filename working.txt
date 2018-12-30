@@ -33,4 +33,21 @@
   1x clock fmax: 200.84
   2x clock fmax: 10000
   Highest non-global fanout: 232920
-  
+ 
+(3) 8x11:
+
+   # operations = 23622320128
+  Throughput: 562.21042 GFLOPS
+
+  ALUTs: 330545
+  Registers: 605,235
+  Logic utilization: 264,608 / 427,200 ( 62 % )
+  I/O pins: 305 / 826 ( 37 % )
+  DSP blocks: 1,416 / 1,518 ( 93 % )
+  Memory bits: 14,532,568 / 55,562,240 ( 26 % )
+  RAM blocks: 2,394 / 2,713 ( 88 % )
+  Actual clock freq: 201
+  Kernel fmax: 201.45
+  1x clock fmax: 201.45
+  2x clock fmax: 10000
+  Highest non-global fanout: 253869
